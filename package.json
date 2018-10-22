@@ -1,6 +1,6 @@
 {
   "name": "viledata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simplistic TypeScript parsing/validation library",
   "main": "dist/commonjs/index.js",
   "module": "dist/module/index.js",
